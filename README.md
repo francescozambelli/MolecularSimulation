@@ -4,4 +4,4 @@ The notebooks goal is a summarization of the laboratory lessons contents provide
 
 The PDF is the report of a study in how a different mutation in the HVI-RT protein, affects its spatial configuaration and the interaction with the solute.
 
-![HIVRT_image](https://github.com/francescozambelli/MolecularSimulation/Images/HIVRT_image.png)
+![HIVRT_image](Images/HIVRT_image.png)
